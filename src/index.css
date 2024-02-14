@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/images/sky.jpg');
+  background-repeat: no-repeat;
+  max-width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 code {
